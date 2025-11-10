@@ -27,6 +27,143 @@ You can directly copy-paste this into a `README.md` in your GitHub repository.
 8. Recommended Tools & Resources
 
 ---
+Great — let’s kick this off **today** and make sure you progress fast, without raising suspicion at work, and build a strong public presence.
+
+---
+
+# ✅ Step 1 — Build Your Twitter Profile (10–15 minutes)
+
+Here’s a ready-to-copy bio + profile setup:
+
+### ✅ Twitter Bio
+
+```
+Learning Machine Learning & Analytics in public.
+Building small projects | Python, SQL, ML, GA4, BigQuery, Looker Studio.
+Documenting wins, failures, experiments. #100DaysOfML
+```
+
+### ✅ Profile Name
+
+`Aniruddha | Learning ML in Public`
+
+### ✅ Banner Text (if you want to add later)
+
+* "Learning ML in Public"
+* "Road to Data Science"
+* "Building 12 Projects in 12 Weeks"
+
+### ✅ First Tweet (Post Today)
+
+```
+Starting today, I'm learning Machine Learning in public.
+
+Goal: Build small analytical + ML projects and improve every week.
+
+If you're learning too, happy to connect.
+#100DaysOfML #DataScience
+```
+
+Done — your Twitter is active.
+
+Tomorrow, you will post a small learning update.
+
+---
+
+# ✅ Step 2 — Safe LinkedIn Positioning (So your HOD won’t panic)
+
+Change your mindset from:
+
+❌ "I’m becoming an ML engineer"
+✅ "I’m leveling up my analytics skills to build smarter insights & automation"
+
+This is **undetectable** as a career switch.
+
+---
+
+# ✅ First LinkedIn Post (Post Today)
+
+Here’s a safe, professional one:
+
+```
+Today I’m starting a structured learning journey to improve my analytics skillset.
+
+I’m working through Python + Machine Learning fundamentals to understand:
+✅ Better predictive insights
+✅ Customer behavior modelling
+✅ Data-driven decision automation
+
+I’ll be sharing what I learn — simple explanations, experiments, and small projects.
+
+If anyone else is learning similar things, let’s connect and grow together.
+```
+
+✅ No mention of switching jobs
+✅ Sounds like professional upskilling
+✅ Safe and respectful
+
+---
+
+# ✅ Step 3 — Accelerated Roadmap (3 Months Instead of 6)
+
+If 6 months feels slow, we can compress it into **12 weeks**.
+
+### **Weekly Time Required**
+
+* Weekdays: 2 hours/day (10 hrs)
+* Weekends: 4 hours/day (8 hrs)
+  **Total: 18 hours/week** — enough for aggressive progress.
+
+---
+
+# ✅ 12-Week Fast Roadmap
+
+(We start this week—no waiting)
+
+### ✅ Month 1 — Core ML (4 Weeks)
+
+| Week | Focus                               | Output                                        |
+| ---- | ----------------------------------- | --------------------------------------------- |
+| 1    | Python + Pandas + Numpy + EDA       | Mini-analysis project + 1 LinkedIn + 5 tweets |
+| 2    | Stats + Probability + Metrics       | Notebook + explanations                       |
+| 3    | Regression + Classification         | Churn or pricing model                        |
+| 4    | Model evaluation + cross-validation | Improve model + publish report                |
+
+---
+
+### ✅ Month 2 — Deep Dive (4 Weeks)
+
+| Week | Topic                            | Output                            |
+| ---- | -------------------------------- | --------------------------------- |
+| 5    | Tree-based models (RF, XGBoost)  | Kaggle dataset, performance boost |
+| 6    | NLP basics + Text classification | Sentiment model                   |
+| 7    | CNN & transfer learning          | Image classification              |
+| 8    | Deployment basics                | FastAPI + Docker demo             |
+
+---
+
+### ✅ Month 3 — Real Projects (4 Weeks)
+
+| Week | Topic                                      | Output                   |
+| ---- | ------------------------------------------ | ------------------------ |
+| 9    | Recommendation system                      | Collaborative filtering  |
+| 10   | Forecasting + Time series                  | ARIMA or Prophet project |
+| 11   | End-to-end pipeline                        | ETL → model → API        |
+| 12   | Resume + GitHub + Portfolio + Applications | Start applying           |
+
+✅ You’ll finish 5–6 solid projects in 90 days
+✅ You’ll be posting your progress publicly
+
+---
+
+# ✅ Step 4 — Posting Frequency (Starting Today)
+
+| Platform | Frequency    | What you post                            |
+| -------- | ------------ | ---------------------------------------- |
+| Twitter  | 1 tweet/day  | What you learned, code, mistakes, wins   |
+| LinkedIn | 2 posts/week | Clear, professional learnings & projects |
+| GitHub   | Commitment   | Update progress weekly                   |
+
 
 # ✅ **MONTH 1: Python + Math + ML Foundations**
 
